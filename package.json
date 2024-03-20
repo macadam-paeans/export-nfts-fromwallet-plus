@@ -1,0 +1,25 @@
+{
+  "name": "export-nfts-fromwallet-plus",
+  "version": "1.0.0",
+  "description": "Enhance NFT export functionalities with additional features and optimizations, maximizing export efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macadam-paeans/export-nfts-fromwallet-plus"
+  },
+  "author": "macadam-paeans",
+  "license": "MIT",
+  "dependencies": {
+    "export-nfts-fromwallet": "1.0.0",
+    "export-nfts-fromwallet-plus": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "multer": "1.0.0",
+    "debug": "1.0.0",
+    "express": "1.0.0",
+    "babel-core": "1.0.0",
+    "ethers": "1.0.0"
+  }
+}
